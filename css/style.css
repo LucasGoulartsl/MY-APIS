@@ -1,0 +1,35 @@
+.title {
+  font-family: "Creepster", system-ui;  
+  text-align: center;
+  font-size: 115px;
+  color:rgb(7, 214, 214);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(203, 230, 50);
+}
+
+h2{
+  font-family: "Creepster", system-ui;
+  color:rgb(7, 214, 214);
+  font-size: 40px;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+
+
+body{
+ 
+  background-image: url("walp_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.estilo{
+  max-width: 350px;
+  margin: 50px auto;
+  background-color: rgb(243, 243, 243);
+  padding: 50px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba (0, 0, 0, 0.1);
+}
+
